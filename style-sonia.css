@@ -1,0 +1,45 @@
+#heading1{
+  color:red;
+}
+#heading2{
+  color:blueviolet
+}
+.heading3{
+  color:blueviolet
+}
+#heading4{
+  color:blueviolet
+}
+#ingre-sec{
+  border-style:groove;
+  border-color:red;
+  border-radius:5px;
+  border-width: 2px;
+  margin-top:10px;
+  height:450px;
+  width:500px;
+}
+
+
+.image1{
+  height:200px;
+  width:200px;
+}
+.image2{
+  height:200px;
+  width:200px;
+  
+  
+}
+#image3{
+  height:200px;
+  width:200px;
+}
+#image4{
+  height:200px;
+  width:200px;
+}
+#image5{
+  height:200px;
+  width:200px;
+}
