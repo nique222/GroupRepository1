@@ -1,31 +1,71 @@
 #heading1{
+  font-size:50px;
   color:red;
+  padding-top:2px;
+  padding-left:700px;
 }
 #heading2{
-  color:blueviolet
+  color:blueviolet;
+  padding-left:180px;
+  font-size:30px;
 }
 .heading3{
-  color:blueviolet
+  color:blueviolet;
+  padding-left:460px;
+  font-size:30px;
 }
-#heading4{
-  color:blueviolet
+
+#sec1{
+  border-style:groove;
+  border-color:black;
+  border-radius: 5px;;
+  background-color: rgba(127, 255, 212, 0.507);
+  height: 750px;
+  
 }
 #ingre-sec{
   border-style:groove;
   border-color:red;
   border-radius:5px;
   border-width: 2px;
-  margin-top:10px;
-  height:450px;
+  margin-top:50px;
+  margin-left:400px;
+  height:350px;
   width:500px;
+  background-color: rgba(245, 245, 220, 0.419);
 }
+.ingre-list{
+  float:right;
+  font-size:20px;
+  color:rgb(184, 12, 184);
+  padding-right:60px;
+}
+#pre-sec{
+  border-style:groove;
+  border-radius:5px; 
+  border-color:greenyellow;
+  width:1000px;
+  margin-top:50px;
+  margin-left:200px;
+  margin-right: 10px;
+  background-color:bisque;
+}
+#prep{
+  font-size:17px;
+}
+
+
 
 
 .image1{
-  height:200px;
-  width:200px;
+  padding-left:300px;
+  padding-bottom:30px;
+  margin-top:0px;
+  height:500px;
+  width:800px;
 }
 .image2{
+  padding-left:20px;
   height:200px;
   width:200px;
   
@@ -38,7 +78,7 @@
 #image4{
   height:200px;
   width:200px;
-}
+  }
 #image5{
   height:200px;
   width:200px;
